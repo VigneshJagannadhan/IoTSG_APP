@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IoTSG_APP.iml" filepath="$PROJECT_DIR$/.idea/modules/IoTSG_APP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IoT_Based_Smart_Grid.iml" filepath="$PROJECT_DIR$/.idea/modules/IoT_Based_Smart_Grid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IoT_Based_Smart_Grid.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IoT_Based_Smart_Grid.app.iml" />
     </modules>
   </component>
 </project>
